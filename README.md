@@ -1,16 +1,33 @@
-## 404: Creativity Not Found
+<!--
+██╗  ██╗██╗██████╗ ██████╗ ███████╗███╗   ██╗
+██║  ██║██║██╔══██╗██╔══██╗██╔════╝████╗  ██║
+███████║██║██║  ██║██║  ██║█████╗  ██╔██╗ ██║
+██╔══██║██║██║  ██║██║  ██║██╔══╝  ██║╚██╗██║
+██║  ██║██║██████╔╝██████╔╝███████╗██║ ╚████║
+╚═╝  ╚═╝╚═╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝
+-->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Just+kidding.+I+build+things+that...;shouldn't+work+but+somehow+do.;Welcome+to+my+digital+cave!" alt="Typing SVG" />
+**🔍 You found a secret...**
 
-I build things that shouldn't work but somehow do.
+Most people put their achievements here.  
+I put my failures:
 
-**Current obsession:** Teaching machines to see 👁️  
-**Previous obsession:** Data structures that don't hate me 📊  
-**Next obsession:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=F7931E&width=100&lines=TBD;???;Surprise!" alt="Next obsession" />
+• **Project "SkyNet"** - AI tried to order pizza instead of taking over the world  
+• **Database "Relations"** - More complicated than actual relationships  
+• **Algorithm "FastSort"** - Slower than bubble sort, somehow  
 
-**Tech stack:** Python • Java • Whatever gets the job done  
-**Philosophy:** Code first, ask questions while debugging
+**Currently hiding in:** Computer Vision lab  
+**Weapon of choice:** Python (it bites back)  
+**Superpower:** Turning coffee into bugs  
 
 ---
 
-*PS: That raccoon in my avatar? That's me after debugging for 6 hours straight.*
+*"If you can read this, you've scrolled too far. Go touch some grass."*
+
+```python
+# This is the only code that works in my repos
+print("Hello World")
+```
+
+---
+<sup>This README updates itself based on my existential crisis level</sup>
